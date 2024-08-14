@@ -1,10 +1,10 @@
-=(TomyTutor_Senhor notes)=-
-
-Tested: Working Video 720p, 1080p & Sound
-
 <p align="center">
     <img src="assets/Tutor.gif">
 </p>
+
+=(TomyTutor_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
 
 # [Tomy Tutor](https://wikipedia.org/wiki/Tomy_Tutor) for [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer/)
 This is an FPGA implementation of the Tomy Tutor, Pyuta, and Pyuta Jr. for the MiSTer FPGA platform.
