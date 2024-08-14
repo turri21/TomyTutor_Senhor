@@ -1,3 +1,7 @@
+=(TomyTutor_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 <p align="center">
     <img src="assets/Tutor.gif">
 </p>
