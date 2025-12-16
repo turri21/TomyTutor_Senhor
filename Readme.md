@@ -4,7 +4,9 @@
 
 =(TomyTutor_Senhor notes)=-
 
-Tested: Working Video 720p, 1080p & Sound
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: Use Quartus 23.1 to synthesize.
 ___
 # [Tomy Tutor](https://wikipedia.org/wiki/Tomy_Tutor) for [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer/)
 This is an FPGA implementation of the Tomy Tutor, Pyuta, and Pyuta Jr. for the MiSTer FPGA platform.
